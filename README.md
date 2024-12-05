@@ -1,1 +1,1 @@
-This is a simple web scrapper for scrapping reviews fron iRecommend.ru.
+This is a simple web scrapper for scrapping reviews from iRecommend.ru.
